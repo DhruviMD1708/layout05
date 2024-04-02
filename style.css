@@ -1,0 +1,128 @@
+.pilldark{
+    
+        background-color:black;
+        border: none;
+        color: black;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 16px;
+        font-size:10;
+        font-weight:bold ;
+    }
+.bgimg{
+    background-image:url('bgimg.jpg');
+    height:160%;
+    width:100%; 
+}    
+.font{
+    font-size:80;
+    color: white;
+}
+.padding{
+    padding-left:3%;
+}
+
+.carty{
+    color:white;
+    font-size:25;
+    padding-top:2%;
+}
+.margin{
+    margin-left:130%;
+    position:relative;
+    top:-50%;
+}
+.top{
+    margin-top:100%;
+}
+.best{
+    font-size: 60;
+    font-weight:500;
+}
+.color{
+    background-color:#F3F3F3;
+    padding:5%;
+}
+.height{
+    height:400px;
+    width:400px;
+}
+.leftmargin{
+    margin-left :70%;
+}
+.size{
+    height:90%;
+    width:120%;
+    border-radius:15%;
+}
+.img{
+    background-image: url('bgimg2.png');
+    background-repeat: no-repeat;
+    height:100%;
+    width: 100%;
+    background-size:cover;
+}
+.meet{
+    font-size:50;
+    color:white;
+}
+.mar{
+    
+    margin-left:7%;
+}
+.ksize{
+    font-size:60;
+    font-weight:700;
+    color:rgba(128, 128, 128, 0.692);
+    
+ }
+
+.hover:hover{
+    background-color: black;
+}
+.box{
+    height:10%;
+    width:45%;
+}
+.space{
+    font-size: 50;
+    color: white;
+    height:25%;
+    width:45%;
+    padding:8%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.boxheight{
+    height:50%;
+    width:150%;
+}
+.position{
+    margin-left:85%;
+    position: relative;
+    top:-35px;
+}
+.video{
+     size:cover;
+    height:100%;
+    width:100%;  
+    }
+.connect{
+    color: white;
+    font-size:45;
+}    
+.imgbg{
+    background-image:url('end.png');
+    background-size:cover;      
+}
+.grey{
+    color:grey;
+}
+.right{
+    margin-left:85%;
+    position: relative;
+    top:-25px;
+}
